@@ -1,5 +1,4 @@
-.demo
-{
+.demo{
 	padding: 100px 0;
 }
 .heading-title
@@ -76,6 +75,29 @@
 }
 
 .btn-lg:hover{
-    background-color: crimson;
+    background-color:  black;
+    color: white;
+}
 
+.testimonial{
+    border-left: 3px solid #6ab33e;
+    padding: 100px 0 100px 275px;
+    position: relative
+}
+
+img {
+    height: 100%;
+   
+}
+.s1-left, .s1-right, .s1-badge {
+    cursor:pointer;
+}
+.s1-badge {
+    height:13px;
+    width:13px;
+    padding:0;
+}
+
+footer{
+    background-color: #202721;
 }
